@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "bash /run.sh": {
+      "name": "bash /run.sh",
+      "command": "bash /run.sh",
+      "runAtStart": true
+    }
+  }
+}
