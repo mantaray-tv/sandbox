@@ -1,4 +1,5 @@
 {
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
   "tasks": {
     "bash /run.sh": {
       "name": "bash /run.sh",
